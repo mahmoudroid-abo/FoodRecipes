@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodRecipes</string>
+    <string name="barbecue">Barbecue</string>
+    <string name="no_more_results">No more results...</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="categories">Categories</string>
+    <string name="some_recipe_title">Some Recipe title</string>
+    <string name="_100">100</string>
+    <string name="error_retrieving_recipe">Error Retrieving Recipe...</string>
+    <string name="error">Error</string>
+</resources>
