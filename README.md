@@ -1,9 +1,8 @@
 # FoodRecipes
 Food Recipes APP
 
-This Project consume The forkify-api to show and searcg Food Recipes, First Screen Display Some Food Recipies Categories, <br/>
-Click any One Will Diplay Many Recipes, RecipeName, SocialRank, Publisher Name and Ingredients  , <br/>
-you can type any Recipe in the SearchView and Click Search, Choose any Recipes from results and click to show Ingredients .
+This Project consume The forkify-api to show and searcg Food Recipes, First Screen Display Some Food Recipies Categories, Click any One Will Diplay Many Recipes,<br/>
+RecipeName, SocialRank, Publisher Name and Ingredients, you can type any Recipe in the SearchView and Click Search, Choose any Recipes from results and click to show Ingredients .
 
 ## Features and Libraries:
  
