@@ -31,8 +31,7 @@ This Project consume The forkify-api to show and searcg Food Recipes, First Scre
 ![5](https://user-images.githubusercontent.com/11637355/99401521-f275ca80-28f0-11eb-8524-766fcc4fc9a6.png)
 ![6](https://user-images.githubusercontent.com/11637355/99402263-d161a980-28f1-11eb-9af7-e9155633e972.png)
 ![7](https://user-images.githubusercontent.com/11637355/99402624-37e6c780-28f2-11eb-83e1-870480277b11.png)
-![Webp net-resizeimage](https://user-images.githubusercontent.com/11637355/99415759-cfebad80-2900-11eb-8bda-9e82efd391a0.png)
-
+![8 1](https://user-images.githubusercontent.com/11637355/99416105-2c4ecd00-2901-11eb-81f5-e9b055f42c98.png)
 ![8](https://user-images.githubusercontent.com/11637355/99410372-13dbb400-28fb-11eb-855a-9d5a5414b4bb.png)
 ![9](https://user-images.githubusercontent.com/11637355/99412406-5b633f80-28fd-11eb-9600-42d2a9ad5ed8.png)
 ![10](https://user-images.githubusercontent.com/11637355/99412945-ee9c7500-28fd-11eb-8666-2f4a33f983d1.png)
