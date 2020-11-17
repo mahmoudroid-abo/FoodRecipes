@@ -22,7 +22,7 @@ This Project consume The forkify-api to show and searcg Food Recipes, First Scre
    - Swipe Refreshlayout.<br/>
    - Circle ImageView. <br/>
 
-##ScreenShoots
+## ScreenShots
 
 ![1](https://user-images.githubusercontent.com/11637355/99400586-cc035f80-28ef-11eb-97de-617ec951e4c4.png)
 ![2](https://user-images.githubusercontent.com/11637355/99401070-6b285700-28f0-11eb-9add-84dfa8d87160.png)
