@@ -11,6 +11,7 @@ public interface RecipeApi {
 
     //Search
     @GET("/api/search")
+//    @GET("/api/recipe/search/")
     Call<RecipeSearchResponse> searchRecipe(
             @Query("key") String key, //?
             @Query("q") String query, //&

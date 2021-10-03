@@ -117,9 +117,14 @@ public class RecipeActivity extends BaseActivity {
             RequestOptions requestOptions = new RequestOptions()
                     .placeholder(R.drawable.loading);
 
+            String fullUrl = recipe.getImage_url();
+
+            StringBuilder myUrl = new StringBuilder(fullUrl);
+            myUrl.insert(4, 's');
+
             Glide.with(this)
                     .setDefaultRequestOptions(requestOptions)
-                    .load(recipe.getImage_url())
+                    .load(myUrl.toString())
                     .into(mRecipeImage);
             Log.d(TAG, "setRecipePropertiesIMAGE: " + recipe.getImage_url());
             mRecipeTitle.setText(recipe.getTitle());

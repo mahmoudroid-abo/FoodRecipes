@@ -79,10 +79,18 @@ public class RecipeRecyclerAdapter extends RecyclerView.Adapter<RecyclerView.Vie
         if (itemViewType == RECIPE_TYPE) {
             RequestOptions requestOptions = new RequestOptions()
                     .placeholder(R.drawable.loading);
+
+
+            String fullUrl = mRecipes.get(position).getImage_url();
+
+            StringBuilder myUrl = new StringBuilder(fullUrl);
+            myUrl.insert(4, 's');
+
             Glide.with(holder.itemView.getContext())
                     .setDefaultRequestOptions(requestOptions)
-                    .load(mRecipes.get(position).getImage_url())
+                    .load(myUrl.toString())
                     .into(((RecipeViewHolder) holder).image);
+
             Log.d(TAG, "onBindViewHolderTest: " + mRecipes.get(position).getImage_url());
 
 
